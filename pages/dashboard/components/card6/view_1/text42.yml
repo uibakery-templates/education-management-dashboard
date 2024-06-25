@@ -1,0 +1,39 @@
+id: '17189744055110.47391801635263464'
+definitionId: text
+parentSlotId: '17189737774670.12444486429534996'
+styles:
+  xl:
+    gridItem:
+      x: 11
+      y: 0
+      w: 5
+      h: 15
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+  xs:
+    gridItem:
+      x: 0
+      y: 80
+      w: 24
+      h: 15
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+properties:
+  name: text42
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  value: Overall performance this week
+  verticalAlignment: middle
+actions: {}
+slots: []

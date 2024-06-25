@@ -1,0 +1,22 @@
+id: '17189737774670.9829605502804084'
+definitionId: view
+styles: {}
+properties:
+  name: view_1
+  viewName: view_1
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+parentSlotId: '17189737774670.9185010537215488'
+index: 0
+slots:
+  - id: '17189737774670.12444486429534996'
+    name: content
+    children:
+      - chart.yml
+      - text39.yml
+      - text40.yml
+      - text41.yml
+      - text42.yml
+      - text43.yml
+      - text44.yml

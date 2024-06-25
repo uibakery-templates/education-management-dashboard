@@ -1,0 +1,27 @@
+id: '17189755234840.33086599929117333'
+name: content
+children:
+  - id: '17189755234850.167763239272277'
+    definitionId: layoutSidebar
+    parentSlotId: '17189755234840.33086599929117333'
+    styles:
+      xl:
+        backgroundColor:
+          value: default
+          dataValue: '#313D6F'
+          withData: true
+    properties:
+      name: layoutSidebar
+      __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+        - xl
+        - xs
+    index: 0
+    slots:
+      - id: '17189755234850.45049521782050284'
+        name: content
+        children:
+          - components/container3/container3.yml
+          - components/container2/container2.yml
+          - components/container4/container4.yml
+          - components/container5/container5.yml
+          - components/container6/container6.yml

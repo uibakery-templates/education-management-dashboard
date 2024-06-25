@@ -1,0 +1,46 @@
+id: '17189761632670.9901191564035372'
+definitionId: icon
+styles:
+  xl:
+    gridItem:
+      x: 0
+      y: 0
+      w: 4
+      h: 12
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+  xs:
+    gridItem:
+      x: 0
+      y: 9
+      w: 24
+      h: 9
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+properties:
+  name: icon5
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  icon:
+    value: bar-chart-2
+    dataValue: star-outline
+    withData: false
+  iconColor:
+    value: basic
+    dataValue: 989EB7
+    withData: true
+parentSlotId: '17189761632670.33579398065882016'
+index: 0
+actions: {}
+slots: []

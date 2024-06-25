@@ -1,0 +1,47 @@
+id: '17189744030440.0929201900475507'
+definitionId: text
+parentSlotId: '17189737774670.12444486429534996'
+styles:
+  xl:
+    gridItem:
+      x: 8
+      y: 0
+      w: 3
+      h: 15
+    fontSize:
+      customValue: 26
+      customUnit: px
+      themeDefaultOverridePropertyKey: baseTextFontSize
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+  xs:
+    gridItem:
+      x: 0
+      y: 65
+      w: 24
+      h: 15
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+properties:
+  name: text41
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  value: 64%
+  textStyle:
+    transform: none
+    styles:
+      - bold
+  verticalAlignment: middle
+actions: {}
+slots: []

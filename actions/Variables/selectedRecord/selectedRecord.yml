@@ -1,0 +1,11 @@
+id: '16944353325830.5077968055672661'
+nameConfigured: true
+name: selectedRecord
+kind: store_item
+parentId: '17189732867820.7346450628008363'
+storeItem:
+  value: ''
+  valueType: number
+  initialValue: '1'
+  version: 1
+steps: []

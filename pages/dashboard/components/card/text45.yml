@@ -1,0 +1,52 @@
+id: '17189745976190.4471843313222079'
+definitionId: text
+parentSlotId: '16944242276470.7096579257783191'
+styles:
+  xl:
+    gridItem:
+      x: 0
+      y: 52
+      w: 24
+      h: 17
+    fontSize:
+      customValue: 12
+      customUnit: px
+      themeDefaultOverridePropertyKey: baseTextFontSize
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+  xs:
+    gridItem:
+      x: 0
+      y: 34
+      w: 24
+      h: 17
+    flex:
+      size:
+        widthValue: auto
+        heightValue: 24
+        heightUnit: px
+      grow: '0'
+      shrink: '0'
+properties:
+  name: text45
+  __UIBAKERY__RESPONSIVE__SHOW__CONDITION__CODE__:
+    - xl
+    - xs
+  value: |-
+    **Contacts**
+    <br>
+    phone: {{actions.user_profile.data.contact_information.phone}}
+    <br>
+    address: {{actions.user_profile.data.contact_information.address}}
+    <br>
+    email: {{actions.user_profile.data.contact_information.email}}
+  textStyle:
+    transform: none
+    styles: []
+actions: {}
+slots: []

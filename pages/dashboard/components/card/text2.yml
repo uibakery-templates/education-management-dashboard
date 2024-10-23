@@ -27,8 +27,6 @@ properties:
     {{actions.user_profile.data.gender}},
     {{actions.user_profile.data.date_of_birth}}
 
-    <br>
-
     *#{{actions.user_profile.data.medical_record_number}}*
   textStyle:
     transform: none

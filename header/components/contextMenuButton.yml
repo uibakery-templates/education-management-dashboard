@@ -57,7 +57,10 @@ properties:
     dataValue: '#1D3B93'
     withData: true
   cssClasses:
-    - no-shadow
+    withData: false
+    dataValue: '[]'
+    value:
+      - no-shadow
 actions: {}
 index: 1
 slots: []
